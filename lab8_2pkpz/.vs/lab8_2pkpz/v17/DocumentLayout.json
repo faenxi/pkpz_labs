@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI Katana\\Source\\repos\\lab8_2pkpz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBEE073B-C323-45AA-BC5F-0CC67E264855}|lab8_2pkpz.pyproj|C:\\Users\\MSI Katana\\Source\\repos\\lab8_2pkpz\\lab8_2pkpz.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBEE073B-C323-45AA-BC5F-0CC67E264855}|lab8_2pkpz.pyproj|solutionrelative:lab8_2pkpz.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab8_2pkpz.py",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab8_2pkpz\\lab8_2pkpz.py",
+              "RelativeDocumentMoniker": "lab8_2pkpz.py",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab8_2pkpz\\lab8_2pkpz.py",
+              "RelativeToolTip": "lab8_2pkpz.py",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwH0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-02T16:34:40.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

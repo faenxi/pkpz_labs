@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI Katana\\Source\\repos\\file_tree_app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8D6ADA-703B-4208-A151-E5915D1EBBF9}|file_tree_app.pyproj|C:\\Users\\MSI Katana\\Source\\repos\\file_tree_app\\file_tree_app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B8D6ADA-703B-4208-A151-E5915D1EBBF9}|file_tree_app.pyproj|solutionrelative:file_tree_app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file_tree_app.py",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\file_tree_app\\file_tree_app.py",
+              "RelativeDocumentMoniker": "file_tree_app.py",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\file_tree_app\\file_tree_app.py",
+              "RelativeToolTip": "file_tree_app.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-14T17:46:08.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

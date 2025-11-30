@@ -1,0 +1,170 @@
+﻿  DoublyLinkedList.cpp
+  main.cpp
+  SinglyLinkedList.cpp
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(8,9): error C2955: "SinglyLinkedList": для использования класс шаблон требуется список аргументов шаблон
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(8,26): error C2133: singleList: неизвестный размер
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(8,26): error C2512: SinglyLinkedList: нет подходящего конструктора по умолчанию
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(10,20): error C2039: "PushBack": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(11,20): error C2039: "PushBack": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(12,20): error C2039: "PushFront": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(13,20): error C2039: "PushBack": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(16,20): error C2039: "Show": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(18,64): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "SinglyLinkedList" (или приемлемое преобразование отсутствует)
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(34,8):
+      может быть "T &SinglyLinkedList<T>::operator [](size_t)"
+          C:\Users\MSI Katana\Source\repos\lab7\main.cpp(18,64):
+          T &SinglyLinkedList<T>::operator [](size_t): невозможно преобразовать указатель "this" из "SinglyLinkedList" в "SinglyLinkedList<T> &"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(18,64):
+              Причина: невозможно преобразовать "SinglyLinkedList" в "SinglyLinkedList<T>"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(18,64):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\MSI Katana\Source\repos\lab7\main.cpp(18,64):
+      при попытке сопоставить список аргументов "(SinglyLinkedList, int)"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(20,20): error C2039: "Remove": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(22,20): error C2039: "Show": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(24,20): error C2039: "PopFront": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(26,20): error C2039: "Show": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(28,20): error C2039: "PopBack": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(30,20): error C2039: "Show": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(32,76): error C2039: "Find": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(33,67): error C2039: "Size": не является членом "SinglyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(16,7):
+       см. объявление "SinglyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(36,22): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "SinglyLinkedList" (или приемлемое преобразование отсутствует)
+      C:\Users\MSI Katana\Source\repos\lab7\SinglyLinkedList.h(34,8):
+      может быть "T &SinglyLinkedList<T>::operator [](size_t)"
+          C:\Users\MSI Katana\Source\repos\lab7\main.cpp(36,22):
+          T &SinglyLinkedList<T>::operator [](size_t): невозможно преобразовать указатель "this" из "SinglyLinkedList" в "SinglyLinkedList<T> &"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(36,22):
+              Причина: невозможно преобразовать "SinglyLinkedList" в "SinglyLinkedList<T>"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(36,22):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\MSI Katana\Source\repos\lab7\main.cpp(36,22):
+      при попытке сопоставить список аргументов "(SinglyLinkedList, int)"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(39,26): error C2133: doubleList: неизвестный размер
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(39,26): error C2512: DoublyLinkedList: нет подходящего конструктора по умолчанию
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(41,20): error C2039: "PushBack": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(42,20): error C2039: "PushBack": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(43,20): error C2039: "PushFront": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(44,20): error C2039: "PushBack": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(47,20): error C2039: "ShowForward": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(49,64): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "DoublyLinkedList" (или приемлемое преобразование отсутствует)
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(39,8):
+      может быть "T &DoublyLinkedList<T>::operator [](size_t)"
+          C:\Users\MSI Katana\Source\repos\lab7\main.cpp(49,64):
+          T &DoublyLinkedList<T>::operator [](size_t): невозможно преобразовать указатель "this" из "DoublyLinkedList" в "DoublyLinkedList<T> &"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(49,64):
+              Причина: невозможно преобразовать "DoublyLinkedList" в "DoublyLinkedList<T>"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(49,64):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\MSI Katana\Source\repos\lab7\main.cpp(49,64):
+      при попытке сопоставить список аргументов "(DoublyLinkedList, int)"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(51,20): error C2039: "Remove": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(53,20): error C2039: "ShowForward": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(55,20): error C2039: "PopFront": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(57,20): error C2039: "ShowForward": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(59,20): error C2039: "PopBack": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(61,20): error C2039: "ShowForward": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(63,77): error C2039: "Find": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(64,67): error C2039: "Size": не является членом "DoublyLinkedList".
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(18,7):
+       см. объявление "DoublyLinkedList"
+  
+C:\Users\MSI Katana\Source\repos\lab7\main.cpp(67,22): error C2678: бинарный "[": не найден оператор, принимающий левый операнд типа "DoublyLinkedList" (или приемлемое преобразование отсутствует)
+      C:\Users\MSI Katana\Source\repos\lab7\DoublyLinkedList.h(39,8):
+      может быть "T &DoublyLinkedList<T>::operator [](size_t)"
+          C:\Users\MSI Katana\Source\repos\lab7\main.cpp(67,22):
+          T &DoublyLinkedList<T>::operator [](size_t): невозможно преобразовать указатель "this" из "DoublyLinkedList" в "DoublyLinkedList<T> &"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(67,22):
+              Причина: невозможно преобразовать "DoublyLinkedList" в "DoublyLinkedList<T>"
+              C:\Users\MSI Katana\Source\repos\lab7\main.cpp(67,22):
+              Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+      C:\Users\MSI Katana\Source\repos\lab7\main.cpp(67,22):
+      при попытке сопоставить список аргументов "(DoublyLinkedList, int)"
+  
+  Создание кода...

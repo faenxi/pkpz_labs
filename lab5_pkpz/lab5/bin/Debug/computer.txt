@@ -1,0 +1,7 @@
+﻿brand55
+model2
+cpu
+16
+0
+os
+True

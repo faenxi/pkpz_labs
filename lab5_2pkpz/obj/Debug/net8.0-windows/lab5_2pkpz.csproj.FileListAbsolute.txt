@@ -1,0 +1,17 @@
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\bin\Debug\net8.0-windows\lab5_2pkpz.exe
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\bin\Debug\net8.0-windows\lab5_2pkpz.deps.json
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\bin\Debug\net8.0-windows\lab5_2pkpz.runtimeconfig.json
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\bin\Debug\net8.0-windows\lab5_2pkpz.dll
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\bin\Debug\net8.0-windows\lab5_2pkpz.pdb
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.csproj.GenerateResource.cache
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.AssemblyInfoInputs.cache
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.AssemblyInfo.cs
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.csproj.CoreCompileInputs.cache
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.sourcelink.json
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.dll
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\refint\lab5_2pkpz.dll
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.pdb
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.genruntimeconfig.cache
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\ref\lab5_2pkpz.dll
+C:\Users\MSI Katana\Source\repos\lab5_2pkpz\obj\Debug\net8.0-windows\lab5_2pkpz.Form1.resources

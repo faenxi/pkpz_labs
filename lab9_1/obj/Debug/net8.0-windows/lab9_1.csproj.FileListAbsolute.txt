@@ -1,0 +1,17 @@
+C:\Users\MSI Katana\Source\repos\lab9_1\bin\Debug\net8.0-windows\lab9_1.exe
+C:\Users\MSI Katana\Source\repos\lab9_1\bin\Debug\net8.0-windows\lab9_1.deps.json
+C:\Users\MSI Katana\Source\repos\lab9_1\bin\Debug\net8.0-windows\lab9_1.runtimeconfig.json
+C:\Users\MSI Katana\Source\repos\lab9_1\bin\Debug\net8.0-windows\lab9_1.dll
+C:\Users\MSI Katana\Source\repos\lab9_1\bin\Debug\net8.0-windows\lab9_1.pdb
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.Form1.resources
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.csproj.GenerateResource.cache
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.AssemblyInfoInputs.cache
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.AssemblyInfo.cs
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.csproj.CoreCompileInputs.cache
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.sourcelink.json
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.dll
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\refint\lab9_1.dll
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.pdb
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\lab9_1.genruntimeconfig.cache
+C:\Users\MSI Katana\Source\repos\lab9_1\obj\Debug\net8.0-windows\ref\lab9_1.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI Katana\\Source\\repos\\lab2_pkpz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3F15AC-9E4B-4C24-90D2-8AF102F041DA}|lab2_pkpz.pyproj|C:\\Users\\MSI Katana\\Source\\repos\\lab2_pkpz\\lab2_pkpz.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA3F15AC-9E4B-4C24-90D2-8AF102F041DA}|lab2_pkpz.pyproj|solutionrelative:lab2_pkpz.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2_pkpz.py",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab2_pkpz\\lab2_pkpz.py",
+              "RelativeDocumentMoniker": "lab2_pkpz.py",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab2_pkpz\\lab2_pkpz.py*",
+              "RelativeToolTip": "lab2_pkpz.py*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-25T13:38:43.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

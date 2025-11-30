@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:lab4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI Katana\\Source\\repos\\university_project\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\University.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:University.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\University.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:University.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Rector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Rector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Rector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Rector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\LabCourse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:LabCourse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\LabCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:LabCourse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC5D710-2322-4FAF-9CD6-209981BBCDCC}|lab4.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\university_project\\main.cpp",
+              "RelativeDocumentMoniker": "..\\university_project\\main.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\university_project\\main.cpp",
+              "RelativeToolTip": "..\\university_project\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:53:19.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T18:49:06.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "University.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\University.cpp",
+              "RelativeDocumentMoniker": "University.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\University.cpp",
+              "RelativeToolTip": "University.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:28:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "University.h",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\University.h",
+              "RelativeDocumentMoniker": "University.h",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\University.h",
+              "RelativeToolTip": "University.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T17:28:08.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rector.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Rector.cpp",
+              "RelativeDocumentMoniker": "Rector.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Rector.cpp",
+              "RelativeToolTip": "Rector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:27:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rector.h",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Rector.h",
+              "RelativeDocumentMoniker": "Rector.h",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Rector.h",
+              "RelativeToolTip": "Rector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T17:27:11.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LabCourse.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\LabCourse.cpp",
+              "RelativeDocumentMoniker": "LabCourse.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\LabCourse.cpp",
+              "RelativeToolTip": "LabCourse.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:26:25.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LabCourse.h",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\LabCourse.h",
+              "RelativeDocumentMoniker": "LabCourse.h",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\LabCourse.h",
+              "RelativeToolTip": "LabCourse.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T17:25:52.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Course.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Course.cpp",
+              "RelativeDocumentMoniker": "Course.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Course.cpp",
+              "RelativeToolTip": "Course.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:25:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.h",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Course.h",
+              "RelativeDocumentMoniker": "Course.h",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Course.h",
+              "RelativeToolTip": "Course.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T17:24:45.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:23:39.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T17:23:18.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Person.cpp",
+              "RelativeDocumentMoniker": "Person.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Person.cpp",
+              "RelativeToolTip": "Person.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:22:47.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-06T17:22:23.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab4.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\lab4.cpp",
+              "RelativeDocumentMoniker": "lab4.cpp",
+              "ToolTip": "C:\\Users\\MSI Katana\\Source\\repos\\lab4\\lab4.cpp",
+              "RelativeToolTip": "lab4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-06T17:05:30.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

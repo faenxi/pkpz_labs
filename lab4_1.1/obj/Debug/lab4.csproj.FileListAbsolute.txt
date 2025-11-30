@@ -1,0 +1,3 @@
+C:\Users\MSI Katana\Source\repos\lab4_1.1\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\MSI Katana\Source\repos\lab4_1.1\obj\Debug\lab4.Form1.resources
+C:\Users\MSI Katana\Source\repos\lab4_1.1\obj\Debug\lab4.csproj.GenerateResource.cache

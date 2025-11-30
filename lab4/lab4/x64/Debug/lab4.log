@@ -1,0 +1,172 @@
+﻿  lab4.cpp
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,10): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "lab4.cpp")
+      C:\Users\MSI Katana\Source\repos\lab4\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,34): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,10): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "lab4.cpp")
+      C:\Users\MSI Katana\Source\repos\lab4\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,33): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(5,12): error C3646: rector: неизвестный спецификатор переопределения
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(5,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(8,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(8,28): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(11,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(11,37): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(12,20): error C2061: синтаксическая ошибка: идентификатор "Course"
+  (компиляция исходного файла "lab4.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(6,5): error C2065: Rector: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(6,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rector"
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(6,12): error C3861: rector: идентификатор не найден
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(7,20): error C2065: rector: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(9,5): error C2065: Student: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(9,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "s1"
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(9,13): error C3861: s1: идентификатор не найден
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(10,5): error C2065: Student: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "s2"
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(10,13): error C3861: s2: идентификатор не найден
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(15,23): error C2065: s1: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(16,23): error C2065: s2: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(18,9): error C2660: University::addCourse: функция не принимает 1 аргументов
+      C:\Users\MSI Katana\Source\repos\lab4\University.h(12,10):
+       см. объявление "University::addCourse"
+      C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(18,9):
+      при попытке сопоставить список аргументов "(Course *)"
+  
+C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(19,9): error C2660: University::addCourse: функция не принимает 1 аргументов
+      C:\Users\MSI Katana\Source\repos\lab4\University.h(12,10):
+       см. объявление "University::addCourse"
+      C:\Users\MSI Katana\Source\repos\lab4\lab4.cpp(19,9):
+      при попытке сопоставить список аргументов "(Course *)"
+  
+  LabCourse.cpp
+  Student.cpp
+C:\Users\MSI Katana\Source\repos\lab4\Student.cpp(10,13): error C2280: "Person::Person(const Person &)": предпринята попытка ссылки на удаленную функцию
+      C:\Users\MSI Katana\Source\repos\lab4\Person.h(22,1):
+      в этом месте создано компилятором: "Person::Person"
+      C:\Users\MSI Katana\Source\repos\lab4\Person.h(22,1):
+      "Person::Person(const Person &)": функция неявно удалена, так как "Person" имеет определяемый пользователем оператор назначения перемещением.
+  
+C:\Users\MSI Katana\Source\repos\lab4\Student.cpp(15,13): error C2280: "Person::Person(const Person &)": предпринята попытка ссылки на удаленную функцию
+      C:\Users\MSI Katana\Source\repos\lab4\Person.h(22,1):
+      в этом месте создано компилятором: "Person::Person"
+      C:\Users\MSI Katana\Source\repos\lab4\Person.h(22,1):
+      "Person::Person(const Person &)": функция неявно удалена, так как "Person" имеет определяемый пользователем оператор назначения перемещением.
+  
+  University.cpp
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,10): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "University.cpp")
+      C:\Users\MSI Katana\Source\repos\lab4\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(3,34): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,10): error C2039: "vector": не является членом "std".
+  (компиляция исходного файла "University.cpp")
+      C:\Users\MSI Katana\Source\repos\lab4\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,16): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(4,33): error C2238: непредвиденные лексемы перед ";"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(5,12): error C3646: rector: неизвестный спецификатор переопределения
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(5,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(8,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(8,28): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(11,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(11,37): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.h(12,20): error C2061: синтаксическая ошибка: идентификатор "Course"
+  (компиляция исходного файла "University.cpp")
+  
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(4,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(4,36): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(5,14): error C2065: rector: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(5,7): error C2614: University: недопустимая инициализация члена: "rector" не является базовым классом или членом
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(9,19): error C2065: courses: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(9,15): error C3531: c: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(9,17): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(9,26): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(10,9): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(13,32): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(13,45): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(14,5): error C2065: students: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(14,24): error C2065: student: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(17,18): error C2761: "void University::addCourse(void)": повторное объявление члена запрещено.
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(17,28): error C2065: Course: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(17,36): error C2065: course: необъявленный идентификатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(17,44): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(18,5): error C3927: "->": конечный тип возвращаемого значения недопустим после оператора объявления, не относящегося к функции.
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(18,12): error C3484: синтаксическая ошибка: требуется "->" перед возвращающим типом
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(18,13): error C3613: отсутствует тип возвращаемого значения после "->" (предполагается int)
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(18,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(18,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "push_back"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(19,1): error C2059: синтаксическая ошибка: }
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(19,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(21,39): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(21,39): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(27,26): error C3312: не найдена вызываемая функция "begin" для типа "int"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(27,26): error C3312: не найдена вызываемая функция "end" для типа "int"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(27,22): error C2530: c: ссылки должны быть инициализированы
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(27,22): error C3531: c: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(27,24): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(27,33): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\MSI Katana\Source\repos\lab4\University.cpp(32,5): error C2065: rector: необъявленный идентификатор
+  Создание кода...
