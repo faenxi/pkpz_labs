@@ -1,0 +1,33 @@
+﻿<Window x:Class="lab14_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab14_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="1.3:" 
+                   FontSize="16" 
+                   Margin="0,0,0,15"/>
+
+            <Button x:Name="btnStartDownload"
+                Content="Почати Асинхронне Завантаження (5 сек)"
+                Height="40"
+                Margin="0,0,0,15"
+                Click="btnStartDownload_Click" Width="377"/>
+
+            <TextBlock Text="Прогрес завантаження:" Margin="0,0,0,5"/>
+
+            <ProgressBar x:Name="pbDownloadProgress"
+                     Height="30"
+                     Minimum="0"
+                     Maximum="100"
+                     Margin="0,0,0,15"/>
+
+            <TextBlock x:Name="txtStatus" 
+                   Text="Очікування запуску..."/>
+        </StackPanel>
+    </Grid>
+</Window>
